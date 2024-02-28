@@ -11,4 +11,4 @@ Portfolio: https://johnhoang.vercel.app/
 #### Technologies
 Python, Pygame
 
-
+![Home](./public/ScreenShot/SpaceHome.png)
